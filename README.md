@@ -199,3 +199,12 @@ list of sites to ignore (one site name per line).
 
 MIT © Sherlock Project<br/>
 Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+$ cd sherlock
+$ python3 -m pip install -r requirements.txt
+# clone the repo
+
+# change the working directory to sherlock
+$ cd sherlock
+
+# install the requirements
+$ python3 -m pip install -r requirements.txt
